@@ -1,11 +1,17 @@
 ---
 layout: post
-title:  "The time has come!"
+title:  'Время пришло!'
 date:   2021-10-24 10:19:04 +0300
-categories: general
-tags: general blogging thoughts
+categories: общее
+tags: блог размышления
 ---
-For a long time I thought about blogging and now I'm ready!
+Давно думал о блоге и теперь я готов!
 
+Пока собираюсь написать несколько статей о машинном обучении и связанных темах, а дальше как пойдет.
 
-I'll update this post later about what do I want and how it's going to be.
+Из улучшений точно хочется комменты, чтобы было куда [набигать](https://lurkmore.to/%D0%9A%D0%BE%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D1%8B#.D0.9D.D0.B0.D0.B1.D0.B8.D0.B3.D0.B0.D1.8E.D1.82).
+
+Что хочется сделать в ближайшее время:
+- Размечать публикации категориями и тегами
+- Иметь разделы для категорий на главной
+- Иметь страницы для тегов со списком публикаций
